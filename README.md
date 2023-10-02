@@ -1,6 +1,6 @@
 # aws-website
 
-This is a wesite hosted 7 run on Amazon Web Services using a commonly established workflow.
+This is a wesite that is hosted & run on Amazon Web Services using a commonly established workflow.
 
 # The following resrouces are used:
 
